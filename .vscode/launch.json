@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/coding/BCA(AI & ML)/BCA-AI-ML-/Semester-1/C-Programing/Day-2",
-      "program": "d:/coding/BCA(AI & ML)/BCA-AI-ML-/Semester-1/C-Programing/Day-2/build/Debug/outDebug",
+      "cwd": "d:/coding/BCA(AI & ML)/Semester-1/C-Programing/kilometers_to_meters",
+      "program": "d:/coding/BCA(AI & ML)/Semester-1/C-Programing/kilometers_to_meters/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
