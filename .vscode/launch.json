@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "d:/coding/BCA(AI & ML)/Semester-1/C-Programing/Program/Number-System-Problem-Solver",
+      "program": "d:/coding/BCA(AI & ML)/Semester-1/C-Programing/Program/Number-System-Problem-Solver/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
